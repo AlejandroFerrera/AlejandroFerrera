@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm a software developer who loves Python and resolve katas!
+### I'm a software developer who loves Python, resolve katas and design before coding!
 
 - 🧑‍💻 Best skills:
     - Python, Django, Rest.
