@@ -8,5 +8,5 @@
 - 🌱 I’m currently learning Django, Frontend technologies, Git (advanced).
 - 👯 I’m looking to collaborate with a team in a software company and add value to the IT market ASAP.
 - 📫 How to reach me: aferrerah1421@gmail.com
-- 😄 Pronouns: He
+
 
