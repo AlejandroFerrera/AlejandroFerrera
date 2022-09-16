@@ -30,5 +30,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-000000?style=flat&logo=.net)
 
 
-[![Alejandro´s GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroFerrera&show_icons=true&theme=radical)](https://github.com/AlejandroFerrera/github-readme-stats)
+[![Alejandro´s GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroFerrera&show_icons=true&theme=codeSTACKr)](https://github.com/AlejandroFerrera/github-readme-stats)
 
