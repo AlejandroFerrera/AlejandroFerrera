@@ -12,12 +12,14 @@
 ## Languages
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 ![ORACLE](https://img.shields.io/badge/-Oracle-000000?style=flat&logo=oracle)
 ![Ionic](https://img.shields.io/badge/-Ionic-000000?style=flat&logo=ionic)
+
 
 ## Tools:
 
