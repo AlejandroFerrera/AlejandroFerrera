@@ -24,8 +24,7 @@
 ## Tools:
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
-![Netbeans](https://img.shields.io/badge/-Netbeans-000000?style=flat&logo=java)
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
 ![Visual Studio](https://img.shields.io/badge/-VisualStudio-000000?style=flat&logo=.net)
 ![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-000000?style=flat&logo=.net)
 
