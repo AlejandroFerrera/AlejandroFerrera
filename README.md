@@ -29,5 +29,3 @@
 ![AWS Amplify](https://img.shields.io/badge/-Amplify-000000?style=flat&logo=amazon)
 
 
-[![Alejandro´s GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroFerrera&show_icons=true&theme=codeSTACKr)](https://github.com/AlejandroFerrera/github-readme-stats)
-
