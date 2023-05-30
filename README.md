@@ -8,7 +8,6 @@ I'm a software developer who loves Python, resolve katas and design before codin
 
 * 🌍  I'm based in Santiago de Chile.
 * ✉️  You can contact me at [aferrerah1421@gmail.com](mailto:aferrerah1421@gmail.com)
-* 🧠  I'm learning NestJS.
 * ⚡  I’m currently working with Django, Relational Databases, Github Flow.
 
 ### Skills
