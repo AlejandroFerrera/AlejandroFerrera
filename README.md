@@ -1,7 +1,7 @@
 Hi 👋 My name is Alejandro Ferrera
 ==================================
 
-Data Support Engineer
+Support Developer
 ---------------------
 
 I'm a software developer who loves Python, resolve katas and design before coding!
